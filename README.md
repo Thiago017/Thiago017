@@ -1,6 +1,6 @@
 ### Olá, seja Bem vindo!!!
 
-- 🧑🏻‍🎓 Cursando o 4° período de sistema de informação.
+- 🧑🏻‍🎓 Cursando o 5° período de sistema de informação.
 - 📚 Estudando para me tornar desenvolvedor.
 - 🖖🏻 Live long and prosper, friends!
 
