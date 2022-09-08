@@ -1,7 +1,7 @@
 ### Olá, seja Bem vindo!!!
 
-- 🧑🏻‍🎓 Cursando o 5° período de sistema de informação.
-- 📚 Estudando para me tornar desenvolvedor.
+- 🧑🏻‍🎓 Cursando o 6° período de sistema de informação.
+- 👾 Desenvolvedor web.
 - 🖖🏻 Live long and prosper, friends!
 
 <div>
