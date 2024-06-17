@@ -1,9 +1,44 @@
 ### Olá, seja Bem vindo!!!
 
-- 🧑🏻‍🎓 Cursando o 6° período de sistema de informação.
-- 👾 Desenvolvedor web.
-- 🖖🏻 Live long and prosper, friends!
-- 
+### Bem-vindo ao meu perfil!
+
+- 🎓 Formado em Sistema de Informação.
+- 💼 Experiência de 4 anos como Desenvolvedor Web.
+- 🔧 Especializado em PHP e JavaScript para desenvolvimento web.
+- 🌐 Apaixonado por criar soluções inovadoras e eficientes.
+
+### Tecnologias que Trabalho
+
+- **Linguagens:** PHP, JavaScript, HTML, CSS
+- **Frameworks e Bibliotecas:** Laravel, jQuery
+- **Bancos de Dados:** MySQL, MongoDB
+- **Outras Ferramentas:** Git, Docker
+
+### Projetos Recentes
+
+- 🌟 Desenvolvimento de uma aplicação web utilizando Laravel e Vue.js.
+- 🚀 Implementação de novas funcionalidades em um sistema legado usando PHP e MySQL.
+- 📊 Criação de APIs REST para integração entre sistemas, incluindo reconhecimento facial.
+
+### Interesses Pessoais
+
+- 📚 Sempre aprendendo novas tecnologias e práticas de desenvolvimento.
+- 💻 novas tecnologias.
+- 🎸 Tocar guitarra nas horas vagas.
+
+<!-- 
+
+### Contato
+
+- 📧 Email: seuemail@example.com
+- 🔗 LinkedIn: [seulinkedin](https://www.linkedin.com/seulinkedin)
+- 🌐 Website: [seusite.com](http://www.seusite.com)
+
+-->
+
+
+### "Live long and prosper, friends!" 🖖🏻
+  
 <div>
   <a href="https://github.com/Thiago017">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Thiago017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
