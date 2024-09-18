@@ -30,8 +30,7 @@
 ### Contato
 
 - 📧 Email: thiago.pereira7ps@gmail.com
-- 🔗 LinkedIn: [[seulinkedin]([https://www.linkedin.com/seulinkedin](https://www.linkedin.com/in/thiago-pereira-719686257/))]
-- 🌐 Website: [seusite.com](http://www.seusite.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/thiago-pereira-719686257
 
 ### "Live long and prosper, friends!" 🖖🏻
   
