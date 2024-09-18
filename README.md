@@ -3,13 +3,13 @@
 ### Bem-vindo ao meu perfil!
 
 - 🎓 Formado em Sistema de Informação.
-- 💼 Experiência de 4 anos como Desenvolvedor Web.
+- 💼 Experiência de 3 anos como Desenvolvedor Web.
 - 🔧 Especializado em PHP e JavaScript para desenvolvimento web.
 - 🌐 Apaixonado por criar soluções inovadoras e eficientes.
 
 ### Tecnologias que Trabalho
 
-- **Linguagens:** PHP, JavaScript, HTML, CSS
+- **Linguagens:** PHP, JavaScript
 - **Frameworks e Bibliotecas:** Laravel, jQuery
 - **Bancos de Dados:** MySQL, MongoDB
 - **Outras Ferramentas:** Git, Docker
@@ -27,16 +27,11 @@
 - 💻 Novas tecnologias.
 - 🎸 Tocar guitarra nas horas vagas.
 
-<!-- 
-
 ### Contato
 
-- 📧 Email: seuemail@example.com
-- 🔗 LinkedIn: [seulinkedin](https://www.linkedin.com/seulinkedin)
+- 📧 Email: thiago.pereira7ps@gmail.com
+- 🔗 LinkedIn: [[seulinkedin]([https://www.linkedin.com/seulinkedin](https://www.linkedin.com/in/thiago-pereira-719686257/))]
 - 🌐 Website: [seusite.com](http://www.seusite.com)
-
--->
-
 
 ### "Live long and prosper, friends!" 🖖🏻
   
