@@ -25,7 +25,6 @@
 - 📚 Sempre aprendendo novas tecnologias e práticas de desenvolvimento.
 - ☕️ Apaixonado em java.
 - 💻 Novas tecnologias.
-- 🎸 Tocar guitarra nas horas vagas.
 
 ### Contato
 
