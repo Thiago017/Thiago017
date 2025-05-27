@@ -3,7 +3,8 @@
 ### Bem-vindo ao meu perfil!
 
 - 🎓 Formado em Sistema de Informação.
-- 💼 Experiência de 3 anos como Desenvolvedor Web.
+- 🎓 Pós graduado em arquitetura e desenvolvimento de sistemas em java.
+- 💼 Experiência de 5 anos como Desenvolvedor Web.
 - 🔧 Especializado em PHP e JavaScript para desenvolvimento web.
 - 🌐 Apaixonado por criar soluções inovadoras e eficientes.
 
@@ -16,7 +17,7 @@
 
 ### Projetos Recentes
 
-- 🌟 Desenvolvimento de uma aplicação web utilizando Laravel e Vue.js.
+- 🌟 Desenvolvimento de uma aplicação web utilizando Laravel.
 - 🚀 Implementação de novas funcionalidades em um sistema legado usando PHP e MySQL.
 - 📊 Criação de APIs REST para integração entre sistemas, incluindo reconhecimento facial.
 
