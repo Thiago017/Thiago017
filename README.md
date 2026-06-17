@@ -36,8 +36,8 @@
   
 <p align="center">
   <p align="center">
-    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/top-langs/?username=Thiago017&layout=compact"/>
-    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=Thiago017&count_private=true&show_icons=true"/>
+    <img src="https://github-readme-stats-alpha-umber-11.vercel.app/api/top-langs/?username=Thiago017&layout=compact"/>
+    <img src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=Thiago017&count_private=true&show_icons=true"/>
   </p>
 </p>
   
